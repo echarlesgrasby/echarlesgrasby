@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eric Charles Grasby
+# Hi, I'm Eric "Graz" Grasby
 
 **Market Monitoring Analyst | Data Engineer | Aspiring Researcher**  
 [![Website](https://img.shields.io/badge/Website-ericgrasby.xyz-blue.svg?style=flat&logo=google-chrome)](https://ericgrasby.xyz)
