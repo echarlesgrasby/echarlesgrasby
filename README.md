@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eric Charles Grasby
 
 **Market Monitoring Analyst | Data Engineer | Aspiring Researcher**  
-[![Website](https://img.shields.io/badge/Website- ericgrasby.xyz-blue.svg?style=flat&logo=google-chrome)](https://ericgrasby.xyz)
+[![Website](https://img.shields.io/badge/Website-ericgrasby.xyz-blue.svg?style=flat&logo=google-chrome)](https://ericgrasby.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-echarlesgrasby-blue?style=flat&logo=linkedin)](https://linkedin.com/in/echarlesgrasby)
 [![Substack](https://img.shields.io/badge/Substack-Grasby%20Labs-orange?style=flat&logo=substack)](https://ericgrasby.substack.com/)
 
