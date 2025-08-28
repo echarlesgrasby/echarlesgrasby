@@ -43,7 +43,6 @@ Keen to become a professional researcher and work abroad, leveraging data engine
 
 - **MS in Information Quality**  
 - **PhD Student** (Language engineering for energy market monitoring)
-- Led high-impact infrastructure projects in the energy sector.
 
 ---
 
