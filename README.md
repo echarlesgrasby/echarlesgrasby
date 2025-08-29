@@ -59,6 +59,9 @@ Keen to become a professional researcher and work abroad, leveraging data engine
 - I was a member of the Arkansas Kendo Team for 3 years—hoping to return to practice soon! 🥋
 - I am fascinated by the field of linguistics and would _love_ to work on a proper, collaborative, computational linguistics project someday!
 - My mom took a candid photo of me when I brought her along to a conference in New England. It is my profile picture here on GitHub. She snapped that photo in Portland, Maine. I love you, mom <3
+
 ---
 
-> _“Driven by curiosity, data quality, and my love for my cat.”_
+![Eric from 2017](pix/eric_merkle_2017_1.png)
+_“I think that younger me would have loved the person that I grew into”_
+
