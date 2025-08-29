@@ -63,5 +63,6 @@ Keen to become a professional researcher and work abroad, leveraging data engine
 ---
 
 ![Eric from 2017](pix/eric_merkle_2017_1.PNG)
+
 _“I think that younger me would have loved the person that I grew into”_
 
