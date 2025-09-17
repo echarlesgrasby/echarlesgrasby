@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a data engineer by training, specializing in **data and information quality**. Currently, I serve as a **Market Monitoring Analyst** for an energy market operator, where I apply my expertise to ensure the integrity and reliability of critical market data.
+I'm a data engineer by training, specializing in **data and information quality**. Currently, I serve as a **Market Monitoring Analyst** for an energy market operator. I support investigations that look for "bad actors" in electricity markets.
 
 🔬 **Academic Credentials:**  
 - M.S. in Information Quality  
